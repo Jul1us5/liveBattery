@@ -74,7 +74,7 @@ body {
             width: 250px;
             height: 100px;
             float: left;
-            border: 8px solid black;
+            border: 4px solid black;
             border-radius: 5px;
             padding: 2px;
             position: relative;
@@ -92,13 +92,13 @@ body {
         .line {
             background-color: white;
             width: 5px;
-            height: 80px;
+            height: 88px;
             position: absolute;
         }
         .inner-body {
             display: inline-block;
             width: 100%;
-            height: 80px;
+            height: 88px;
             background-color: green; 
             
             animation-name: loading;
